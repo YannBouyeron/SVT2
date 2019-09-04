@@ -4,7 +4,7 @@
 
 On estime entre 5 et 20 milliards le nombre d'espèces vivant actuellement sur terre, ce qui ne représente qu'une infime partie de la biodiversité ayant existé depuis l'apparition de la vie sur terre il y'a 3,8 Ga.
 
-***<p class="center"> Comment les êtres vivants sont ils organisés aux différentes échelles ?</p>***
+***<p align="center"> Comment les êtres vivants sont ils organisés aux différentes échelles ?</p>***
 
 - Réalisez un [montage](https://ipfs.io/ipfs/QmU3rm6hZy2QVUWcL9GmgqFXhii6v1TER4z3qeqh9ipBsy) entre lame et lamelle d’un fragment dépiderme d’oignion , et [observez](https://ipfs.io/ipfs/QmU3rm6hZy2QVUWcL9GmgqFXhii6v1TER4z3qeqh9ipBsy) le au microscope photonique. [Réalisez](https://ipfs.io/ipfs/QmQfPFXNjM6DPhZ1YD1m3LGgV6XKNt98AYseZoBJ23J2w5) un dessin d’observation d’une cellule d’épiderme d’oignion. Comparez l’organisation des différents types de cellules en complétant le [tableau](https://ipfs.io/ipfs/QmcRAcbLfKPktp9xifuCJcrm8hYDgh4nhVZXh1jeAa9zWu).
 
@@ -12,7 +12,7 @@ On estime entre 5 et 20 milliards le nombre d'espèces vivant actuellement sur t
 
 <p></p>
 
-<div align=center>
+<div align=center widht=100%>
 <table>
 <tr class="center">
 

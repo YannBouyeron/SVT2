@@ -24,13 +24,13 @@ On estime entre 5 et 20 milliards le nombre d'espèces vivant actuellement sur t
 
 <tr>
 
-<td><img src="https://ipfs.io/ipfs/QmVcQG5XuFtYbddsXhFTcMTT8hZqUaNEYKqTGqGrKYPutK" alt="doc"></td>
+<td><img src="https://ipfs.io/ipfs/QmVcQG5XuFtYbddsXhFTcMTT8hZqUaNEYKqTGqGrKYPutK" alt="doc" height=80px></td>
 
-<td><img src="https://ipfs.io/ipfs/QmRgpRqkxLoGy7zMV4n2fqQnt7Byu5rHfZw7iCuXUKrTLM" alt="tableau"></td> 
+<td><img src="https://ipfs.io/ipfs/QmRgpRqkxLoGy7zMV4n2fqQnt7Byu5rHfZw7iCuXUKrTLM" alt="tableau" height=80px></td> 
 
-<td><img src="https://ipfs.io/ipfs/QmYFWuJf1To2NQAGbhbMbvyBQRcFkPqsffZGWG5E1rJ38g" alt="fiches techniques"></td> 
+<td><img src="https://ipfs.io/ipfs/QmYFWuJf1To2NQAGbhbMbvyBQRcFkPqsffZGWG5E1rJ38g" alt="fiches techniques" height=80px></td> 
 
-<td><img src="https://ipfs.io/ipfs/Qme17xTDwsX7sM875D4XPjuz6iSCruVYKSeS8EzEcFQA6u" alt="dessin d’observation"></td> 
+<td><img src="https://ipfs.io/ipfs/Qme17xTDwsX7sM875D4XPjuz6iSCruVYKSeS8EzEcFQA6u" alt="dessin d’observation" height=80px></td> 
 
  
  

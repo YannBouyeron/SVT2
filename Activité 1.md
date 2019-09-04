@@ -12,7 +12,7 @@ On estime entre 5 et 20 milliards le nombre d'espèces vivant actuellement sur t
 
 <p></br></p>
 
-<div align=center height=120px>
+<div align=center max-height=120px>
 <table>
 <tr align="center">
 

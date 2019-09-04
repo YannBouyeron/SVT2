@@ -10,10 +10,9 @@ On estime entre 5 et 20 milliards le nombre d'espèces vivant actuellement sur t
 
 - Exploitez les [documents](https://ipfs.io/ipfs/QmS2AEktNeUvSox1xjuFQSr5yiEReV65Ws8eiSmnCAPfva) pour comparez l’organisation aux différentes échelles envisageables d’un végétal (ou d’un animal) , et d’une bactérie. Rédigez une synthèse.
 
-<h1> </h1>
-<h1> </h1>
+<p></p>
 
-
+<div align=center>
 <table>
 <tr class="center">
 
@@ -38,3 +37,5 @@ On estime entre 5 et 20 milliards le nombre d'espèces vivant actuellement sur t
 
 </tr>
 </table>
+
+</div>

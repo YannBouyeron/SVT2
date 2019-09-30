@@ -91,7 +91,7 @@ Dans un organisme pluricellulaire, les cellules sont regroupées en tissus qui f
 
 La matrice extra-cellulaire des cellules animales est composée majoritairement de longues fibres de collagène (protéines fibrillaires), reliées entre elles par un réseau de protéines associées à des glucides. L’ensemble est relié à la membrane de la cellule grâce à des protéines membranaires : les fibronectines et les intégrines. Ce réseau permet l’adhérence des cellules entre elles, mais il permet aussi la communication et la protection des cellules.
 
-<div class=center>
+<div align=center>
 
 <a href="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2">
 <img src="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2" width=300>
@@ -106,7 +106,7 @@ Le sang (tissu sanguin) est un tissu dont la matrice extra cellulaire (le plasma
 
 La paroi végétale est composée majoritairement de longues fibres glucidiques de cellulose (polymère de glucose), reliées entre elles par d’autres glucides (hémicellulose, pectine). Ce réseau permet l’adhérence des cellules entre elles, mais aussi la protection des cellules contre les stress mécaniques ou hydriques. L’ensemble des parois donne au végétal sa rigidité, jouant le rôle de « squelette ».
 
-<div class=center>
+<div align=center>
 
 <a href="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK">
 <img src="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK" width=300>

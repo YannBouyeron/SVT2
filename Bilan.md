@@ -29,7 +29,7 @@ L'absence de paroi leur confère une forme irrégulière. Elles possèdent une m
 
 ###### 2.2 Les cellules végétales:
 
-La présence d'une paroi "végétale" leur confère une forme régulière (géométrique). Elle possèdent une membrane plasmique délimitant un cytoplasme renfermant un noyau (contenant le matériel génétique constitué d'ADN sous forme d'un nombre variable de chromosomes selon l'espèce considérée), parfois des vacuoles, et différents organites (notamment des mitochondries). Elles possèdent parfois une ou plusieurs vacuoles. Ce type de cellules se subdivise lui même en deux sous types:
+La présence d'une paroi "végétale" leur confère une forme régulière (géométrique). Elles possèdent une membrane plasmique délimitant un cytoplasme renfermant un noyau (contenant le matériel génétique constitué d'ADN sous forme d'un nombre variable de chromosomes selon l'espèce considérée), parfois des vacuoles, et différents organites (notamment des mitochondries). Elles possèdent parfois une ou plusieurs vacuoles. Ce type de cellules se subdivise lui même en deux sous types:
 
 - Les cellules végétales chlorophylliennes qui possèdent un organite qui leur est spécifique: les chloroplastes.
 - Les cellules végétales non chlorophylliennes qui ne possèdent pas de chloroplastes.

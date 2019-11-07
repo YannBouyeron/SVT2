@@ -5,7 +5,7 @@
 
 ### L’organisation des différents types cellulaires.
 
-<div align=center>
+<div class=center>
 
 <img src="https://ipfs.io/ipfs/QmNk91CiRMXiYPCZM4Eotjp7rmekdbtocBU9Xd95nc7QQ8" height=240>
 
@@ -57,6 +57,15 @@ Chaque tissu est un ensemble de cellules spécialisées; les cellules du parench
 
 Chaque cellules est un ensemble d’organites et de molécules spécialisées : les cellules du parenchyme palissadique renferment de nombreux chloroplastes (organite spécialisé dans la photosynthèse) contenant de la chlorophylle (molécule spécialisée dans l’absorption de l’énergie lumineuse)
 
+<div class=center>
+
+<a href="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep">
+<img src="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep" width=300>
+</a>
+</div>
+
+
+
 ## II La spécialisation cellulaire.
 
 Chez les organismes unicellulaires, toutes les fonctions de l’organisme (notamment la nutrition, la reproduction, la protection, éventuellement la locomotion..) sont assurées par la seule et unique cellule constituant l’organisme. 
@@ -91,7 +100,7 @@ Dans un organisme pluricellulaire, les cellules sont regroupées en tissus qui f
 
 La matrice extra-cellulaire des cellules animales est composée majoritairement de longues fibres de collagène (protéines fibrillaires), reliées entre elles par un réseau de protéines associées à des glucides. L’ensemble est relié à la membrane de la cellule grâce à des protéines membranaires : les fibronectines et les intégrines. Ce réseau permet l’adhérence des cellules entre elles, mais il permet aussi la communication et la protection des cellules.
 
-<div align=center>
+<div class=center>
 
 <a href="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2">
 <img src="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2" width=300>
@@ -106,10 +115,67 @@ Le sang (tissu sanguin) est un tissu dont la matrice extra cellulaire (le plasma
 
 La paroi végétale est composée majoritairement de longues fibres glucidiques de cellulose (polymère de glucose), reliées entre elles par d’autres glucides (hémicellulose, pectine). Ce réseau permet l’adhérence des cellules entre elles, mais aussi la protection des cellules contre les stress mécaniques ou hydriques. L’ensemble des parois donne au végétal sa rigidité, jouant le rôle de « squelette ».
 
-<div align=center>
+<div class=center>
 
 <a href="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK">
 <img src="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK" width=300>
 </a>
 </div>
 
+## IV L’ADN , support de l’information génétique.
+
+L’ADN ou acide désoxyribonucléique est une macro-molécule informative qui contient les informations nécessaires au fonctionnement de la cellule. Présent dans le noyau des cellules eucaryotes, l’ADN se condense et devient visible sous forme de chromosomes dans le cytoplasme des cellules en division. Chez les procaryotes l’ADN est toujours présent sous forme d’un chromosome bactérien dans le cytoplasme.
+
+
+#### 1: La structure de la molécule d'ADN
+
+L'ADN ou acide désoxyribonucléique est une macro-molécule constituée de deux brins (ou deux chaînes). Chaque brin est constitué d'une succession de nucléotides. 
+
+Chaque nucléotide est constitué d'un groupement phosphate (P), d'un sucre: le désoxyribose (D) et d'une base azotée parmi les 4 bases existantes (Adénine , Thymine , Guanine , Cytosine). Les nucléotides successifs d'une même chaine sont liés les uns aux autres par leurs groupements phosphates. 
+
+Les deux chaînes sont complémentaires et liées l'une à l'autre par des liaisons hydrogènes établies entre bases azotées complémentaires se faisant face sur les deux brins: l'Adénine est complémentaire de la Thymine, la Guanine est complémentaire de la Cytosine.
+
+<div class=center>
+
+<a href="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p">
+<img src="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p" width=300>
+</a>
+</div>
+
+
+
+#### 2: Localisation de l'ADN
+
+L'ADN est toujours présent dans les cellules, mais il présente des états de condensation variables et des localisations différentes selon les stades du cycle cellulaire:
+
+En dehors des divisions cellulaires, l'ADN est présent sous une forme peu condensée (invisible en microscopie photonique sans coloration spécifique) dans le noyau des cellules eucaryotes,
+Pendant les divisions cellulaires, l'ADN est présent sous une forme fortement condensée: les chromosomes (observables au microscope photonique) dans le cytoplasme des cellules eucaryotes.
+
+Dans les cellules procaryotes (qui ne possèdent pas de noyau), l'ADN est présent sous la forme d'un unique chromosome bactérien (circulaire) dans le cytoplasme de la cellule, ainsi que de nombreux plasmides (petits morceaux d'ADN circulaires portant notamment des gènes de résistances aux antibiotiques).
+
+#### 3: L'ADN est un support de l'information génétique
+
+**La transgénese est l'action d'introduire un gène étranger (appelé gène d'intérêt ou transgène) dans un organisme receveur et de le faire fonctionner. L'organisme receveur exprime alors un ou plusieurs caractères de l'organisme donneur du gène.**
+
+La transgénese connaît aujourd'hui de nombreuses applications:
+
+- Médicales: exemple de l'introduction du gène humain contenant l'information nécessaire à la synthèse de l'insuline dans le génome de chèvres qui produisent alors de l'insuline "humaine" dans leur lait, qui peut être purifiée et produite en grande quantité pour les diabétiques insulino-dépendants.
+
+- Agroalimentaires: exemple de l'introduction du gène bactérien contenant l'information nécessaire à la synthèse d'une molécule toxique pour la pyrale (papillon parasite du maïs) dans le génome de plants de maïs qui produisent alors cette molécule et sont résistants à la pyrale.
+
+- Recherche scientifique: la transgénese permet notamment de sur-exprimer ou sous-exprimer un gène dont on peut alors déduire le rôle par l'observation des conséquences sur l'organisme génétiquement modifié.
+
+Le fait que cette technique de génie génétique puisse être réalisée entre des organismes très divers, montre que les gènes (et l'ADN qui les constitue) contiennent une information permettant la réalisation des caractères et pouvant fonctionner de la même façon chez toutes les espèces.
+
+**Un gène peut donc se définir comme étant une portion de la molécule d'ADN contenant l'information nécessaire à la réalisation d'un caractère héréditaire.**
+
+Différents gènes (ou différents allèles d’un même gène) porteurs d'informations différentes, présentent la même structure (c'est de l'ADN !) , mais n'ont pas les mêmes séquences nucléotidiques (ordre d'enchaînement des nucléotides). L'information génétique réside donc dans l'ordre d'enchaînement des nucléotides.
+
+Le génome de l’espèce humaine comporte environ 35 000 gènes. Ces 35 000 gènes sont présents dans toutes nos cellules, mais un gène donné ne s’exprime (= est utilisé pour gouverner la réalisation d’un caractère) que dans certains types cellulaires. La spécialisation cellulaire est le résultat de l’expression des gènes dans les cellules.
+
+<p class=center>
+
+<a href=https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV>	
+<img src="https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV" height=460>
+</a>
+</p>

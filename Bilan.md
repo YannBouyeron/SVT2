@@ -5,7 +5,7 @@
 
 ### L’organisation des différents types cellulaires.
 
-<div class=center>
+<div align=center>
 
 <img src="https://ipfs.io/ipfs/QmNk91CiRMXiYPCZM4Eotjp7rmekdbtocBU9Xd95nc7QQ8" height=240>
 
@@ -57,7 +57,7 @@ Chaque tissu est un ensemble de cellules spécialisées; les cellules du parench
 
 Chaque cellules est un ensemble d’organites et de molécules spécialisées : les cellules du parenchyme palissadique renferment de nombreux chloroplastes (organite spécialisé dans la photosynthèse) contenant de la chlorophylle (molécule spécialisée dans l’absorption de l’énergie lumineuse)
 
-<div class=center>
+<div align=center>
 
 <a href="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep">
 <img src="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep" width=300>
@@ -100,7 +100,7 @@ Dans un organisme pluricellulaire, les cellules sont regroupées en tissus qui f
 
 La matrice extra-cellulaire des cellules animales est composée majoritairement de longues fibres de collagène (protéines fibrillaires), reliées entre elles par un réseau de protéines associées à des glucides. L’ensemble est relié à la membrane de la cellule grâce à des protéines membranaires : les fibronectines et les intégrines. Ce réseau permet l’adhérence des cellules entre elles, mais il permet aussi la communication et la protection des cellules.
 
-<div class=center>
+<div align=center>
 
 <a href="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2">
 <img src="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2" width=300>
@@ -115,7 +115,7 @@ Le sang (tissu sanguin) est un tissu dont la matrice extra cellulaire (le plasma
 
 La paroi végétale est composée majoritairement de longues fibres glucidiques de cellulose (polymère de glucose), reliées entre elles par d’autres glucides (hémicellulose, pectine). Ce réseau permet l’adhérence des cellules entre elles, mais aussi la protection des cellules contre les stress mécaniques ou hydriques. L’ensemble des parois donne au végétal sa rigidité, jouant le rôle de « squelette ».
 
-<div class=center>
+<div align=center>
 
 <a href="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK">
 <img src="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK" width=300>
@@ -135,7 +135,7 @@ Chaque nucléotide est constitué d'un groupement phosphate (P), d'un sucre: le 
 
 Les deux chaînes sont complémentaires et liées l'une à l'autre par des liaisons hydrogènes établies entre bases azotées complémentaires se faisant face sur les deux brins: l'Adénine est complémentaire de la Thymine, la Guanine est complémentaire de la Cytosine.
 
-<div class=center>
+<div align=center>
 
 <a href="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p">
 <img src="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p" width=300>
@@ -173,7 +173,7 @@ Différents gènes (ou différents allèles d’un même gène) porteurs d'infor
 
 Le génome de l’espèce humaine comporte environ 35 000 gènes. Ces 35 000 gènes sont présents dans toutes nos cellules, mais un gène donné ne s’exprime (= est utilisé pour gouverner la réalisation d’un caractère) que dans certains types cellulaires. La spécialisation cellulaire est le résultat de l’expression des gènes dans les cellules.
 
-<p class=center>
+<p align=center>
 
 <a href=https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV>	
 <img src="https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV" height=460>

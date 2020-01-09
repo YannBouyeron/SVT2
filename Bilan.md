@@ -1,5 +1,7 @@
 <h1 align=center>L'organisation fonctionnelle du vivant</h1>
 
+<p></br></p>
+
 # L’organisme pluricellulaire: un ensemble de cellules scpécialisées.
 
 
@@ -190,13 +192,13 @@ Les cellules structurent nos organismes, elles en assurent aussi leur fonctionne
 
 <p style="text-decoration:underline;"> Les cellules chlorophylliennes exposées à la lumière réalisent la photosynthèse:</p>
 
-**<p class=center>6 CO2 + 12 H2O + sels minéraux  + énergie lumineuse + chlorophylle  →   C6H12O6 + 6 O2 + 6 H2O</p>**
+**<p align=center>6 CO2 + 12 H2O + sels minéraux  + énergie lumineuse + chlorophylle  →   C6H12O6 + 6 O2 + 6 H2O</p>**
 
 La photosynthèse se déroule dans des organites spécialisés: les chloroplastes, grâce à la chlorophylle qu’ils contiennent.
 
 <p style="text-decoration:underline;">Les cellules chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration:</p>
 
-**<p class=center>6 O2 +  C6H12O6   →  6 O2 + 6 H2O + Enenrgie chimique</p>**
+**<p align=center>6 O2 +  C6H12O6   →  6 O2 + 6 H2O + Enenrgie chimique</p>**
 
 La réspiration se déroule dans des organites spécialisés: les mitochondries.
 
@@ -208,7 +210,7 @@ Une partie de la matière organique produite lors de la photosynthèse est utili
 
 Les cellules non chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration au sein de leurs mitochondries:
 
-**<p class=center>6 O2 +  C6H12O6   →  6 CO2 + 6 H2O + Enenrgie chimique</p>**
+**<p align=center>6 O2 +  C6H12O6   →  6 CO2 + 6 H2O + Enenrgie chimique</p>**
 
 Ces cellules sont hétérotrophes au carbone: étant incapables de produire leur matière organique en utilisant uniquement des matières minérales, elles doivent prélever de la matière organique (glucose C6H12O6) dans leur environnement pour d’une part produire leurs constituants, et d’autre part réaliser la réspiration qui leur permet de produire l’énergie nécessaire à leur fonctionnement en convertissant l’énergie chimique de réserve du glucose en énergie chimique "utilisable" (l’ATP).
 

@@ -198,7 +198,7 @@ La photosynthèse se déroule dans des organites spécialisés: les chloroplaste
 
 <p style="text-decoration:underline;">Les cellules chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration:</p>
 
-**<p align=center>6 O2 +  C6H12O6   →  6 O2 + 6 H2O + Enenrgie chimique</p>**
+**<p align=center>6 O2 +  C6H12O6   →  6 CO2 + 6 H2O + Enenrgie chimique</p>**
 
 La réspiration se déroule dans des organites spécialisés: les mitochondries.
 

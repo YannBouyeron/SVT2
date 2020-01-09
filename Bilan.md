@@ -1,3 +1,5 @@
+<h1 align=center>L'organisation fonctionnelle du vivant</h1>
+
 # L’organisme pluricellulaire: un ensemble de cellules scpécialisées.
 
 
@@ -179,3 +181,39 @@ Le génome de l’espèce humaine comporte environ 35 000 gènes. Ces 35 000 gè
 <img src="https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV" height=460>
 </a>
 </p>
+
+# Le métabolisme.
+
+Les cellules structurent nos organismes, elles en assurent aussi leur fonctionnement. Le métabolisme est l'ensemble des réactions chimiques se déroulant dans une cellule. Ces réactions impliquent des échanges de matières et d'énergie entre la cellule et son environnement.
+
+### Les cellules chlorophylliennes ont un métabolisme autotrophe.
+
+<p style="text-decoration:underline;"> Les cellules chlorophylliennes exposées à la lumière réalisent la photosynthèse:</p>
+
+**<p class=center>6 CO2 + 12 H2O + sels minéraux  + énergie lumineuse + chlorophylle  →   C6H12O6 + 6 O2 + 6 H2O</p>**
+
+La photosynthèse se déroule dans des organites spécialisés: les chloroplastes, grâce à la chlorophylle qu’ils contiennent.
+
+<p style="text-decoration:underline;">Les cellules chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration:</p>
+
+**<p class=center>6 O2 +  C6H12O6   →  6 O2 + 6 H2O + Enenrgie chimique</p>**
+
+La réspiration se déroule dans des organites spécialisés: les mitochondries.
+
+Les cellules chlorophylliennes sont autotrophes au carbone: elles sont capables de produire leur propre matière organique (le glucose C6H12O6 constituant l’amidon) en utilisant uniquement des matières minérales (CO2, H20, sels minéraux) lors de la photosynthèse. La matière organique produite constitue une forme d’énergie chimique de réserve, il y’a donc lors de la photosynthèse conversion de l’énérgie lumineuse en énergie chimique de réserve (le glucose: C6H12O6 constituant l’amidon). 
+
+Une partie de la matière organique produite lors de la photosynthèse est utilisée par la cellule pour produire ses constituants. L’autre partie est utilisée par la cellule pour réaliser la réspiration qui permet de produire l’énergie nécessaire au fonctionnement de la cellule. Il y’a lors de la réspiration conversion de l’énergie chimique de réserve (le glucose C6H12O6 constituant l’amidon) en énérgie "utilisable" (l’ATP).
+
+### Les cellules non chlorophylliennes ont un métabolisme hétérotrophe. 
+
+Les cellules non chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration au sein de leurs mitochondries:
+
+**<p class=center>6 O2 +  C6H12O6   →  6 CO2 + 6 H2O + Enenrgie chimique</p>**
+
+Ces cellules sont hétérotrophes au carbone: étant incapables de produire leur matière organique en utilisant uniquement des matières minérales, elles doivent prélever de la matière organique (glucose C6H12O6) dans leur environnement pour d’une part produire leurs constituants, et d’autre part réaliser la réspiration qui leur permet de produire l’énergie nécessaire à leur fonctionnement en convertissant l’énergie chimique de réserve du glucose en énergie chimique "utilisable" (l’ATP).
+
+### La complémentarité des métabolismes autotrophes et hétérotrophes aux échelles des organes et des organismes.
+
+Les plantes vertes chlorophylliennes sont des organismes autotrophes au carbone. Elles sont capables de produire leur propre matière organique en utilisant uniquement des matières minérales et de l’énergie lumineuse grâce à la photosynthèse. Ces organismes sont constitués d’organes autotrophes (les feuilles) et d’organes hétérotrophes (les racines, les fleurs, les fruits). Le métabolisme autotrophe des feuilles permet de produire la matière organique nécessaire au métabolisme hétérotrophe des racines; il y’a complémentarité des métabolismes entre les organes autotrophes et hétérotrophes au sein des organismes autotrophes.
+
+Les organismes hétérotrophes (exemples: les humains et les moutons) consomment directement ou indirectement la matière organique élaborée par les organismes autotrophes (les plantes vertes chlorophylliennes); il y’a donc aussi une complémentarité des métabolismes entre les organismes autotrophes et hétérotrophes au sein des ecosystèmes.

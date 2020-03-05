@@ -64,7 +64,7 @@ Chaque cellules est un ensemble d’organites et de molécules spécialisées : 
 <div align=center>
 
 <a href="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep">
-<img src="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep" width=300>
+<img src="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep" width=350>
 </a>
 </div>
 
@@ -142,7 +142,7 @@ Les deux chaînes sont complémentaires et liées l'une à l'autre par des liais
 <div align=center>
 
 <a href="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p">
-<img src="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p" width=300>
+<img src="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p" width=260>
 </a>
 </div>
 
@@ -180,11 +180,11 @@ Le génome de l’espèce humaine comporte environ 35 000 gènes. Ces 35 000 gè
 <p align=center>
 
 <a href=https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV>	
-<img src="https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV" height=460>
+<img src="https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV" height=250>
 </a>
 </p>
 
-# Le métabolisme.
+# V Le métabolisme des cellules.
 
 Les cellules structurent nos organismes, elles en assurent aussi leur fonctionnement. Le métabolisme est l'ensemble des réactions chimiques se déroulant dans une cellule. Ces réactions impliquent des échanges de matières et d'énergie entre la cellule et son environnement.
 

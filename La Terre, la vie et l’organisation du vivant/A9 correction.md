@@ -38,14 +38,14 @@ En milieu pollué, les troncs de bouleaux sont recouverts de suie noire:
 - Les carbonaria aux ailes noires sont alors moins visibles, elles subissent moins la prédation , leur survie est donc meilleure.
 - Les typica aux ailes claires sont alors plus visibles, elles subissent davantage la prédation, leur survie est donc plus faible.
 
-**<p class=center>En milieu pollué, les carbonaria sont avantagées, les typica sont désavantagées.</p>**
+**<p align=center>En milieu pollué, les carbonaria sont avantagées, les typica sont désavantagées.</p>**
 
 En milieu non pollué, les troncs de bouleaux sont recouverts de lichens gris clairs:
 
 - Les carbonaria aux ailes noires sont alors plus visibles, elles subissent davantage la prédation , leur survie est donc plus faible.
 - Les typica aux ailes claires sont alors moins visibles, elles subissent moins la prédation, leur survie est donc meilleure.
 
-**<p class=center>En milieu non pollué, les carbonaria sont désavantagées, les typica sont avantagées.</p>**
+**<p align=center>En milieu non pollué, les carbonaria sont désavantagées, les typica sont avantagées.</p>**
 
 <p></br></p>
 

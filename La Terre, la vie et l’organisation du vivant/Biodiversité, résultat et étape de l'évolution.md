@@ -106,7 +106,6 @@ La majeure partie de la diversité créée a été perdue au cours de l’évolu
 
 Une population est un ensemble d’individus appartenant à une même espèce, peuplant un même espace géographique, et ayant tendance à se reproduire entre eux. Les populations comprennent des individus qui diffèrent par leur patrimoine génétique et par leurs caractères. Cette diversité observée ne représente qu'une infime partie de la diversité créée par les mécanismes évoqués précédemment.  
 
-<p></br></p>
 
 La **dérive génétique** est l'évolution d'une population causée par des phénomènes aléatoires et imprévisibles comme la rencontre aléatoire des gamètes lors de la fécondation. La dérive génétique concerne surtout les allèles neutres c’est-à-dire qui ne confèrent ni avantage ni désavantage sélectif.
 Les effets de la dérive génétique sont d'autant plus importants que la population est petite. En effet, le petit nombre de géniteurs et/ou de descendants fait que statistiquement certains allèles ne seront pas transmis, tandis que dans une population de grande dimension (au moins plusieurs milliers d’individus), où les rencontres entre reproducteurs se font au hasard, les fréquences des allèles sont généralement stables.

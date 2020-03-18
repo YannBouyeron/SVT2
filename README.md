@@ -6,4 +6,10 @@
 
 Insistez surtout sur l'analyse des expériences et graphiques de la partie "La mise en place du phénotype sexuel primaire". Je posterai l'analyse détaillée vendredi.
 
+Quelques éléments pour vous aider dans cette analyse:
 
+- une greffe d'organe ne rétablie que les connexions vasculaires (sanguines), et non pas les connexions nerveuses qui ne sont généralement pas indispensables.
+
+- il existe 2 grands modes de communication dans l'organisme: la communication nerveuse et la communication hormonale
+
+- une hormone est une molécule soluble, sécrétée par une cellule ou glande spécialisée (dite "endocrine") dans la circulation sanguine, et agissant à distance (via la circulation sanguine) sur des cellules dites cibles qui possèdent des recepteurs spécifiques (complémentarité 3D) de l'hormone. La fixation de l'hormone sur son recepteur spécifique modifie le fonctionnement de la cellule cible.

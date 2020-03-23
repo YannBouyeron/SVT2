@@ -1,5 +1,10 @@
 ### Travail pour la semaine:
 
+
+**Semaine du 23-03-2020:**
+
+- Faire [l'activité 2](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A2%20Cycles%20femmes.md) sur les évolutions cycliques chez la femme.
+
 **20-03-2020:**
 
 La [correction](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A1%20Correction.md) de l'activité 1 est disponible.

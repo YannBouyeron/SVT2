@@ -24,9 +24,9 @@ La comparaison de l’utérus en fin de cycle ([grande coupe](https://ipfs.io/ip
 
 >- J1 - J5: Ce sont les menstruations qui correspondent à la dégradation de l’endomètre qui perd les 4/5 de son épaisseur.
 >
-- J5 - J14: C’est la phase proliférative: l’endomètre se reconstitue et s’épaissit.
+>- J5 - J14: C’est la phase proliférative: l’endomètre se reconstitue et s’épaissit.
 >
-- J14 - J28: C’est la phase sécrétoire: l’endomètre termine son épaississement, les glandes en tubes et les vaisseaux sanguins se développent dans l’endomètre.
+>- J14 - J28: C’est la phase sécrétoire: l’endomètre termine son épaississement, les glandes en tubes et les vaisseaux sanguins se développent dans l’endomètre.
 
 
 ### Le cycle ovarien.
@@ -38,12 +38,12 @@ On observe à une instant donné différents follicules à différents stades de
 Les ovaires présentent des activités cycliques. Au cours d’un cycle ovarien, qui dure lui aussi 28 jours, un follicule cavitaire termine son développement pour atteindre le stade de follicule mûre au 14° jour qui expulse alors son ovocyte (ovulation); le reste du follicule se transforme alors en corps jaune qui se développe puis régresse en fin de cycle si il n’y a pas eu fécondation.
 
 >Le cycle ovarien dure 28 jours. Il comporte 3 phases:
-
+>
 >-  J1 - J14: phase folliculaire: un follicule cavitaire termine son développement pour atteindre le stade de follicule mûre.
 >
-- J14: c’est l’ovulation: la paroi du follicule se déchire, l’ovocyte est expulsé hors du follicule et hors de l’ovaire, puis capturé par le pavillon d’un oviducte.
+>- J14: c’est l’ovulation: la paroi du follicule se déchire, l’ovocyte est expulsé hors du follicule et hors de l’ovaire, puis capturé par le pavillon d’un oviducte.
 >
-- J14 - J28: phase lutéale: le reste du follicule se transforme en corps jaune qui se développent puis régresse en fin de cycle si il n’y a pas eu fécondation.
+>- J14 - J28: phase lutéale: le reste du follicule se transforme en corps jaune qui se développent puis régresse en fin de cycle si il n’y a pas eu fécondation.
 
 
 ### Expériences chez la souris.

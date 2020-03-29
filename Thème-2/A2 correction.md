@@ -43,7 +43,7 @@ Les ovaires présentent des activités cycliques. Au cours d’un cycle ovarien,
 >
 >- J14: c’est l’ovulation: la paroi du follicule se déchire, l’ovocyte est expulsé hors du follicule et hors de l’ovaire, puis capturé par le pavillon d’un oviducte.
 >
->- J14 - J28: phase lutéale: le reste du follicule se transforme en corps jaune qui se développent puis régresse en fin de cycle si il n’y a pas eu fécondation.
+>- J14 - J28: phase lutéale: le reste du follicule se transforme en corps jaune qui se développe puis régresse en fin de cycle si il n’y a pas eu fécondation.
 
 
 ### Expériences chez la souris.

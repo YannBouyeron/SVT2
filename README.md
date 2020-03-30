@@ -1,6 +1,17 @@
 ### Travail pour la semaine:
 
 
+_______
+
+
+**Semaine du 30-03-2020:**
+
+- Faire [l'activité 3](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A3%20CHH.md) sur le contrôle du cycle ovarien. **Temps estimé: 1h30.**
+
+
+______
+
+
 **28-03-2020:**
 
 - La [correction](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A2%20correction.md) de l'activité 2 est disponible.
@@ -9,9 +20,17 @@
 
 - Faire [l'activité 2](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A2%20Cycles%20femmes.md) sur les évolutions cycliques chez la femme **Temps estimé: 1h**.
 
+
+______
+
+
 **20-03-2020:**
 
 La [correction](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A1%20Correction.md) de l'activité 1 est disponible.
+
+
+______
+
 
 **Semaine du 16-03-2020:**
 

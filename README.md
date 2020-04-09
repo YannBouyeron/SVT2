@@ -1,5 +1,11 @@
 ### Travail pour la semaine:
 
+_______
+
+
+**Semaine du 06-04-2020:**
+
+- La [correction](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A3%20correction.md) de l'activité 3 est disponible.
 
 _______
 

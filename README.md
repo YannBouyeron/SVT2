@@ -2,6 +2,11 @@
 
 ______
 
+
+**18-04-2020:** La [correction](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A4%20correction.md) de l'activité 4 est disponible.
+
+______
+
 **Semaine du 13-04-2020:**
 
 - Faire [l'activité 4](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A4%20Testis.md) sur le contrôle de l'activité testiculaire. **Temps estimé:1h30**

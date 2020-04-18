@@ -3,7 +3,9 @@
 ______
 
 
-**18-04-2020:** La [correction](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A4%20correction.md) de l'activité 4 est disponible.
+**18-04-2020:** 
+
+- La [correction](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A4%20correction.md) de l'activité 4 est disponible.
 
 ______
 

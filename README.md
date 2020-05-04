@@ -2,6 +2,13 @@
 
 ______
 
+**Semaine du 04-05-2020:**
+
+- Faire [l'acivité 5](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A5%20contraception.md) sur la contraception hormonale. **Temps estimé: 1h30**	
+
+
+______
+
 
 **18-04-2020:** 
 

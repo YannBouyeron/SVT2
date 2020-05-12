@@ -2,6 +2,13 @@
 
 ______
 
+**Semaine du 11-05-2020:**
+
+- La [correction](https://ipfs.io/ipfs/Qmd3DTs35H5Yw4B9LFi1iv65oh4K785SnUKMVewF9QQEf1) de l'activité 5 est disponible.
+
+
+______
+
 **Semaine du 04-05-2020:**
 
 - Faire [l'acivité 5](https://github.com/YannBouyeron/SVT2/blob/master/Thème-2/A5%20contraception.md) sur la contraception hormonale. **Temps estimé: 1h30**	

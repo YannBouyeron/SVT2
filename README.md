@@ -2,12 +2,17 @@
 
 ______
 
+
 **Semaine du 11-05-2020:**
+
+- Faire [l'acivité 6](https://ipfs.io/ipfs/QmXLD2jHZaZHGgBe7tRC6UC3BMnDt3EfPibbaRh3nU1DcH) sur la procréation médicalement assistée.
+
 
 - La [correction](https://ipfs.io/ipfs/Qmd3DTs35H5Yw4B9LFi1iv65oh4K785SnUKMVewF9QQEf1) de l'activité 5 est disponible.
 
 
 ______
+
 
 **Semaine du 04-05-2020:**
 

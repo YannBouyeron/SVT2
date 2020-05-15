@@ -3,6 +3,14 @@
 ______
 
 
+**15-05-2020:**
+
+- Le début du [cours](https://ipfs.io/ipfs/QmefQEnuupn7Vtz3ipJsg7sa5MMetoHFJtR8eK4vjCbtFc) est disponible. Le bilan de l'activité 6 se trouve dans le cours.
+
+
+______
+
+
 **Semaine du 11-05-2020:**
 
 - Faire [l'acivité 6](https://ipfs.io/ipfs/QmXLD2jHZaZHGgBe7tRC6UC3BMnDt3EfPibbaRh3nU1DcH) sur la procréation médicalement assistée.

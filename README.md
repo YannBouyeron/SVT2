@@ -5,7 +5,7 @@ ______
 
 **15-05-2020:**
 
-- Le début du [cours](https://ipfs.io/ipfs/QmUDG89jEqi9eKNcaYPZThoYohgoWoeUKwc2ttopwxxg4p) est disponible. Le bilan de l'activité 6 se trouve dans le cours.
+- Le début du [cours](https://ipfs.io/ipfs/QmXbagzQLP1pavCX6ooTtT31jmhFJ6nGiznNsfcRL5AWiU) est disponible. Le bilan de l'activité 6 se trouve dans le cours.
 
 
 ______

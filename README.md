@@ -2,6 +2,13 @@
 
 ______
 
+**22-05-2020:**
+
+- Les [corrections](https://ipfs.io/ipfs/QmYj8NrsaU9oV2N87pAvBVgq8msfkdm2VKPLsoJBkQoTRr) des activités 7 et 8 sont disponibles.
+
+
+______
+
 **Semaine du 18-05-2020:**
 
 - Faire les [activités 7 et 8](https://ipfs.io/ipfs/QmNcSw6Ysrs6AR1XmyNyextTraeK5pQnHQV55yzA6Hk2Zf) sur les bases biologiques du palisir sexuel et sur l'identité sexuelle.

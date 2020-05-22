@@ -4,7 +4,7 @@ ______
 
 **22-05-2020:**
 
-- Les [corrections](https://ipfs.io/ipfs/QmYj8NrsaU9oV2N87pAvBVgq8msfkdm2VKPLsoJBkQoTRr) des activités 7 et 8 sont disponibles.
+- Les [corrections](https://ipfs.io/ipfs/QmSWdRhbBxpx4YrXGnCHHdLtS87A3uDJ3MjNaDBMLZXE5v) des activités 7 et 8 sont disponibles.
 
 
 ______

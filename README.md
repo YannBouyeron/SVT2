@@ -8,7 +8,7 @@ ______
 
 - Le [cours](https://ipfs.io/ipfs/QmQhN8sTXzsorwGTB9WK2JEvaecQU8t9B6NdHrMLGdxbHm) a été mis à jour.
 
-- Faire [l'exercice](https://ipfs.io/ipfs/QmPqjvcJiP82Mt6BuDtqACTK5mpuvN4aMF3xGP2yVKMXyS)  
+- Faire [l'exercice](https://ipfs.io/ipfs/QmPqjvcJiP82Mt6BuDtqACTK5mpuvN4aMF3xGP2yVKMXyS) sur la contraception masculine.   
 
 ______
 

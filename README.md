@@ -1,5 +1,15 @@
 ### Travail pour la semaine:
 
+
+______
+
+**Semaine du 25-05-2020:**
+
+
+- Le [cours](https://ipfs.io/ipfs/QmQhN8sTXzsorwGTB9WK2JEvaecQU8t9B6NdHrMLGdxbHm) a été mis à jour.
+
+- Faire [l'exercice](https://ipfs.io/ipfs/QmPqjvcJiP82Mt6BuDtqACTK5mpuvN4aMF3xGP2yVKMXyS)  
+
 ______
 
 **22-05-2020:**

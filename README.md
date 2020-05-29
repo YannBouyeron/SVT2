@@ -3,6 +3,13 @@
 
 ______
 
+
+**29-05-2020:**
+
+- La [correction](https://ipfs/ipfs/QmSA45PpDqaJoHoxbvDKaBdeCM5fHN94NnzigXzRdE3onb) de l'exercice est disponible.
+
+______
+
 **Semaine du 25-05-2020:**
 
 

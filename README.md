@@ -6,7 +6,7 @@ ______
 
 **29-05-2020:**
 
-- La [correction](https://ipfs/ipfs/QmSA45PpDqaJoHoxbvDKaBdeCM5fHN94NnzigXzRdE3onb) de l'exercice est disponible.
+- La [correction](https://ipfs.io/ipfs/QmSA45PpDqaJoHoxbvDKaBdeCM5fHN94NnzigXzRdE3onb) de l'exercice est disponible.
 
 ______
 

@@ -4,6 +4,19 @@
 ______
 
 
+
+**Semaine du 01-06-2020:**
+
+
+Nouveau chapitre: Agents pathogènes et maladies vectorielles.
+
+
+- Faire les [activités](https://ipfs.io/ipfs/Qmf3TeSsocQrAinaBXtaSYdu33qzFX6A792v74mkmwAy68) sur le VIH.
+
+
+______
+
+
 **29-05-2020:**
 
 - La [correction](https://ipfs.io/ipfs/QmSA45PpDqaJoHoxbvDKaBdeCM5fHN94NnzigXzRdE3onb) de l'exercice est disponible.

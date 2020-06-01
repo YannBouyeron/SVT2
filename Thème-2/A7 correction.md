@@ -1,33 +1,27 @@
-<!DOCTYPE html>
-<html>
-	<head><meta charset="utf-8"/></head>
-	<body>
-		<h1>Les bases biologiques du plaisir sexuel.</h1>
+# Les bases biologiques du plaisir sexuel.
 
-		<p>L’expérience de Olds &amp; Milner (1954) montre que lorsque l’électrode stimule certaines aires cérébrales telles que l’aire tegmentale ventrale (ATV) ou l’hypothalamus, le rat réitère l’action (appuyer sur la pédale) qui déclenche la stimulation de l’aire cérébrale (ATV ou hypothalamus). Il s’agit d’un phénomène de renforcement.</p>
+L’expérience de Olds & Milner (1954) montre que lorsque l’électrode stimule certaines aires cérébrales telles que l’aire tegmentale ventrale (ATV) ou l’hypothalamus, le rat réitère l’action (appuyer sur la pédale) qui déclenche la stimulation de l’aire cérébrale (ATV ou hypothalamus). Il s’agit d’un phénomène de renforcement.
 
-		<p>On en déduit que l’ATV et l’hypothalamus sont impliqués dans la sensation de plaisir et de satisfaction.</p>
+On en déduit que l’ATV et l’hypothalamus sont impliqués dans la sensation de plaisir et de satisfaction.
 
-		<p>Ces résultats sont confirmés par d’autres études qui identifient en plus d’autres aires cérébrales impliquées dans la sensation de plaisir (document 2): l’hippocampe, l’amygdale, le noyau accubens, le cortex préfontal.</p>
+Ces résultats sont confirmés par d’autres études qui identifient en plus d’autres aires cérébrales impliquées dans la sensation de plaisir (document 2): l’hippocampe, l’amygdale, le noyau accusent, le cortex préfontal.
 
-		<p>Les données du document 3 montrent que la consommation d’une boisson sucrée induit une augmentation de la libération de dopamine par les neurones de l’ATV. La dopamine est un neurotransmetteur (ou neuromédiateur) qui stimule les neurones des autres aires cérébrales impliquées dans la sensation de plaisir. </p>
+Les données du document 3 montrent que la consommation d’une boisson sucrée induit une augmentation de la libération de dopamine par les neurones de l’ATV. La dopamine est un neurotransmetteur (ou neruomédiateur) qui stimule les neurones des autres aires cérébrales impliquées dans la sensation de plaisir. 
 
-		<p>L’IRM (doucement 4) permet de visualiser les aires cérébrales actives lors d’un rapport sexuel. On constate l’activation des aires cérébrales déjà identifiées précédemment (l’hippocampe, l’amygdale, le noyau accubens, le cortex préfontal), en lien avec une augmentation de l’activité de l’hypothalamus. </p>
+L’IRM (doucement 4) permet de visualiser les aires cérébrales actives lors d’un rapport sexuel. On constate l’activation des aires cérébrales déjà identifiées précédemment (l’hippocampe, l’amygdale, le noyau accusent, le cortex préfontal), en lien avec une augmentation de l’activité de l’hypothalamus. 
 
-		<p><strong>La sensation de plaisir a donc pour origine la stimulation de l’ATV qui stimule à son tour, grâce à un neuromédiateur chimique particulier: la dopamine, d’autres aires cérébrales (l’amygdale, le noyau accubens, le cortex préfontal). La stimulation de ces aires cérébrales génère  la sensation de plaisir. Ces différentes aires cérébrales communiquent entre elles par voie nerveuse, l’ensemble formant ce que l’on appelle le circuit de la récompense.</strong></p>
 
-		<p><strong>Cependant, dans l’espèce humaine, le plaisir sexuel ne dépend pas que du circuit nerveux de la récompense. D’autres facteurs sont impliqués (facteurs sociaux, affectifs, culturels..)</strong></p>
+**La sensation de plaisir a donc pour origine la stimulation de l’ATV qui stimule à son tour, grâce à un neuromédiateur chimique particulier: la dopamine, d’autres aires cérébrales (l’amygdale, le noyau accusent, le cortex préfontal). La stimulation de ces aires cérébrales génère  la sensation de plaisir. Ces différentes aires cérébrales communiquent entre elles par voie nerveuse, l’ensemble formant ce que l’on appelle le circuit de la récompense.**
 
-		<h1>Identité sexuelle et orientation sexuelle.</h1>
+**Cependant, dans l’espèce humaine, le plaisir sexuel ne dépend pas que du circuit nerveux de la récompense. D’autres facteurs sont impliqués (facteurs sociaux, affectifs, culturels..)**
 
-		<p>La sexualité humaine dépend du contexte social, culturel et historique de chaque individu.</p>
+# Identité sexuelle et orientation sexuelle.
 
-		<p>L’identité sexuelle est principalement définie d’un point de vue anatomique (nature des organes génitaux masculins ou féminins); elle dépend aussi de facteurs psychologiques (ressentis que l’on a d’appartenir au genre masculin, féminin, ou aux deux simultanément ou successivement)</p>
+La sexualité humaine dépend du contexte social, culturel et historique de chaque individu.
 
-		<p>Cette identité sexuelle ne présume en rien de l’orientation sexuelle d’un individu qui peut être attiré par une personne de même sexe et/ou de sexe opposé. Cette orientation sexuelle fait partie de la sphère privée.</p>
+L’identité sexuelle est principalement définie d’un point de vue anatomique (nature des organes génitaux masculins ou féminins); elle dépend aussi de facteurs psychologiques (ressentis que l’on a d’appartenir au genre masculin, féminin, ou aux deux simultanément ou successivement)
 
-		<p>Que ce soit pour l’identité sexuelle ou l’orientation sexuelle, l’appartenance ne devrait faire l’objet d’aucune discrimination.
-		Des discrimations demeurent cependant (homophobie), bien qu’elles (les discriminations) soient punies par la loi dans la plus part des pays.</p>
+Cette identité sexuelle ne présume en rien de l’orientation sexuelle d’un individu qui peut être attiré par une personne de même sexe et/ou de sexe opposé. Cette orientation sexuelle fait partie de la sphère privée.
 
-	</body>
-</html>
+Que ce soit pour l’identité sexuelle ou l’orientation sexuelle, l’appartenance ne devrait faire l’objet d’aucune discrimination.
+Des discrimations demeurent cependant (homophobie), bien qu’elles (les discriminations) soient punies par la loi dans la plus part des pays.

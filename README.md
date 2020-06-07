@@ -4,6 +4,13 @@
 ______
 
 
+**07-06-2020:**
+
+- La [correction](https://ipfs.io/ipfs/QmUV6xvE3Q9WMt58Sp7sV5D7TZm7VaqZXBsVbCjwDSNDVr) sur le VIH est disponible.
+
+______
+
+
 
 **Semaine du 01-06-2020:**
 

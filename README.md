@@ -4,6 +4,15 @@
 ______
 
 
+**Semaine du 08-06-2020:**
+
+
+- Faire [l'acivité](https://ipfs.io/ipfs/QmNVixxru5io1MEoEEgo2ukreGpurayH9JCNTLa1WeX2aD) sur le paludisme.
+
+
+______
+
+
 **07-06-2020:**
 
 - La [correction](https://ipfs.io/ipfs/QmUV6xvE3Q9WMt58Sp7sV5D7TZm7VaqZXBsVbCjwDSNDVr) sur le VIH est disponible.

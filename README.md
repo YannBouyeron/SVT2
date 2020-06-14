@@ -4,6 +4,15 @@
 ______
 
 
+**Semaine du 15-06-2020:**
+
+
+- Faire les [exercices](https://ipfs.io/ipfs/QmPXkjB4Xa1Mro19NpTe8c5facsyMFHL8uW8rdoKNUDZGQ) sur les maladies vectorielles.
+
+
+______
+
+
 **14-06-2020:**
 
 

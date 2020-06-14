@@ -4,6 +4,14 @@
 ______
 
 
+**14-06-2020:**
+
+
+- La [correction](https://ipfs.io/ipfs/QmcTqdZaXjSp2XbpyrYXik5HoaNKcewf2w9xKhQTgPhN82) des activités est disponible.
+
+______
+
+
 **Semaine du 08-06-2020:**
 
 

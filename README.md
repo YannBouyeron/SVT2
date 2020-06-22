@@ -7,6 +7,9 @@ ______
 **Semaine du 22-06-2020:**
 
 
+- Nouveau chapitre: Agrostèmes et développement durable. Faire [l'activité](https://ipfs.io/ipfs/QmSGFqyyNMQCxPbuL6wTxTVEnjbw3grV9SZ2sECkkmHjcj) sur le fonctionnement des ecosystèmes / agrosystèmes.
+
+
 - La [correction](https://ipfs.io/ipfs/QmYRr3aBWFZygFMa7sQ2sFsNAbisoXYTHWjjHDGuPgc5dA) des exercices sur les maladies vectorielles est disponible
 
 

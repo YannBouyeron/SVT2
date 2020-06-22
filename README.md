@@ -4,6 +4,15 @@
 ______
 
 
+**Semaine du 22-06-2020:**
+
+
+- La [correction](https://ipfs.io/ipfs/QmYRr3aBWFZygFMa7sQ2sFsNAbisoXYTHWjjHDGuPgc5dA) des exercices sur les maladies vectorielles est disponible
+
+
+______
+
+
 **Semaine du 15-06-2020:**
 
 

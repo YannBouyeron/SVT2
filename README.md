@@ -1,5 +1,11 @@
 ### Travail pour la semaine:
 
+_______
+
+**Groupe 2: Semaine du 21-09-2020:**
+
+- Terminer [l'activité 1](https://github.com/YannBouyeron/SVT2/blob/master/Thème-1/A1.md)
+
 
 ______
 

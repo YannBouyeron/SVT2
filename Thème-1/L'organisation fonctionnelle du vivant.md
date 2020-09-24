@@ -59,7 +59,7 @@ Chaque organe est lui même constitué d’un ensemble de tissus chacun spécial
 
 Chaque tissu est un ensemble de cellules spécialisées; les cellules du parenchyme palissadique sont ainsi spécialisées dans l’absorption de l’énergie lumineuse.
 
-Chaque cellules est un ensemble d’organites et de molécules spécialisées : les cellules du parenchyme palissadique renferment de nombreux chloroplastes (organite spécialisé dans la photosynthèse) contenant de la chlorophylle (molécule spécialisée dans l’absorption de l’énergie lumineuse)
+Chaque cellule est un ensemble d’organites et de molécules spécialisées : les cellules du parenchyme palissadique renferment de nombreux chloroplastes (organite spécialisé dans la photosynthèse) contenant de la chlorophylle (molécule spécialisée dans l’absorption de l’énergie lumineuse)
 
 <div align=center>
 

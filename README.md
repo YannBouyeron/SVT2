@@ -4,7 +4,7 @@ _______
 
 **Groupe 1: Semaine du 12-10-2020:**
 
-- Terminer [l'activité 2]() sur l'ADN
+- Terminer [l'activité 2](https://github.com/YannBouyeron/SVT2/blob/master/Thème-1/A2.md) sur l'ADN. L'application LibMol est disponible [ici](https://www.libmol.org)
 
 ______
 

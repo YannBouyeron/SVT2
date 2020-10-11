@@ -1,5 +1,11 @@
 ### Travail pour la semaine:
 
+_______
+
+**Groupe 1: Semaine du 12-10-2020:**
+
+- Terminer [l'activité 2]() sur l'ADN
+
 ______
 
 **Groupe 2: Semaine du 05-10-2020:**

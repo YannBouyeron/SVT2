@@ -1,5 +1,16 @@
 ### Travail pour la semaine:
 
+______
+
+**Jeudi 11 Mars:**
+
+- Terminer le tableau de l'[activité](https://ipfs.io/ipfs/Qmd8dcZhkKsNfVZKb6bN6dashaotASs4LAUnduweNSeeKS) sur les caractéristiques sexuelles.
+
+**Vendredi 12 Mars:**
+
+- **QCM en ligne sur le chapitre Bidodiversité. 15h45 - 16h00. Le lien sera publié à 15h44 sur le padlet** 
+
+_______
 _______
 
 **Groupe 1: Semaine du 12-10-2020:**

@@ -8,7 +8,7 @@ ______
 
 **Vendredi 12 Mars:**
 
-- **QCM en ligne sur le chapitre Bidodiversité. 15h45 - 16h00. Le lien sera publié à 15h44 sur le padlet** 
+- **QCM en ligne sur le chapitre Bidodiversité. 13h45 - 14h00. Le lien sera publié à 13h44 sur le padlet** 
 
 _______
 _______

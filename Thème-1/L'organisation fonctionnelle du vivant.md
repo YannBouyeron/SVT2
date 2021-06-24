@@ -193,13 +193,13 @@ Les cellules structurent nos organismes, elles en assurent aussi leur fonctionne
 
 <p style="text-decoration:underline;"> Les cellules chlorophylliennes exposées à la lumière réalisent la photosynthèse:</p>
 
-**<p class=center>6 CO<sub>2</sub> + 12 H<sub>2</sub>O + sels minéraux  + énergie lumineuse + chlorophylle  →   C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O</p>**
+**<p align=center>6 CO<sub>2</sub> + 12 H<sub>2</sub>O + sels minéraux  + énergie lumineuse + chlorophylle  →   C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O</p>**
 
 La photosynthèse se déroule dans des organites spécialisés: les chloroplastes, grâce à la chlorophylle qu’ils contiennent.
 
 <p style="text-decoration:underline;">Les cellules chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration:</p>
 
-**<p class=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
+**<p align=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
 
 La réspiration se déroule dans des organites spécialisés: les mitochondries.
 
@@ -211,7 +211,7 @@ Une partie de la matière organique produite lors de la photosynthèse est utili
 
 Les cellules non chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration au sein de leurs mitochondries:
 
-**<p class=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
+**<p align=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
 
 Ces cellules sont hétérotrophes au carbone: étant incapables de produire leur matière organique en utilisant uniquement des matières minérales, elles doivent prélever de la matière organique (glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) dans leur environnement pour d’une part produire leurs constituants, et d’autre part réaliser la réspiration qui leur permet de produire l’énergie nécessaire à leur fonctionnement en convertissant l’énergie chimique de réserve du glucose en énergie chimique "utilisable" (l’ATP).
 

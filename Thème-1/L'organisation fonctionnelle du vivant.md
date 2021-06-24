@@ -184,7 +184,8 @@ Le génome de l’espèce humaine comporte environ 35 000 gènes. Ces 35 000 gè
 </a>
 </p>
 
-# V Le métabolisme des cellules.
+
+## V Le métabolisme des cellules.
 
 Les cellules structurent nos organismes, elles en assurent aussi leur fonctionnement. Le métabolisme est l'ensemble des réactions chimiques se déroulant dans une cellule. Ces réactions impliquent des échanges de matières et d'énergie entre la cellule et son environnement.
 
@@ -192,27 +193,27 @@ Les cellules structurent nos organismes, elles en assurent aussi leur fonctionne
 
 <p style="text-decoration:underline;"> Les cellules chlorophylliennes exposées à la lumière réalisent la photosynthèse:</p>
 
-**<p align=center>6 CO2 + 12 H2O + sels minéraux  + énergie lumineuse + chlorophylle  →   C6H12O6 + 6 O2 + 6 H2O</p>**
+**<p class=center>6 CO<sub>2</sub> + 12 H<sub>2</sub>O + sels minéraux  + énergie lumineuse + chlorophylle  →   C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O</p>**
 
 La photosynthèse se déroule dans des organites spécialisés: les chloroplastes, grâce à la chlorophylle qu’ils contiennent.
 
 <p style="text-decoration:underline;">Les cellules chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration:</p>
 
-**<p align=center>6 O2 +  C6H12O6   →  6 CO2 + 6 H2O + Enenrgie chimique</p>**
+**<p class=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
 
 La réspiration se déroule dans des organites spécialisés: les mitochondries.
 
-Les cellules chlorophylliennes sont autotrophes au carbone: elles sont capables de produire leur propre matière organique (le glucose C6H12O6 constituant l’amidon) en utilisant uniquement des matières minérales (CO2, H20, sels minéraux) lors de la photosynthèse. La matière organique produite constitue une forme d’énergie chimique de réserve, il y’a donc lors de la photosynthèse conversion de l’énérgie lumineuse en énergie chimique de réserve (le glucose: C6H12O6 constituant l’amidon). 
+Les cellules chlorophylliennes sont autotrophes au carbone: elles sont capables de produire leur propre matière organique (le glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> constituant l’amidon) en utilisant uniquement des matières minérales (CO<sub>2</sub>, H<sub>2</sub>O, sels minéraux) lors de la photosynthèse. La matière organique produite constitue une forme d’énergie chimique de réserve, il y’a donc lors de la photosynthèse conversion de l’énérgie lumineuse en énergie chimique de réserve (le glucose: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> constituant l’amidon). 
 
-Une partie de la matière organique produite lors de la photosynthèse est utilisée par la cellule pour produire ses constituants. L’autre partie est utilisée par la cellule pour réaliser la réspiration qui permet de produire l’énergie nécessaire au fonctionnement de la cellule. Il y’a lors de la réspiration conversion de l’énergie chimique de réserve (le glucose C6H12O6 constituant l’amidon) en énérgie "utilisable" (l’ATP).
+Une partie de la matière organique produite lors de la photosynthèse est utilisée par la cellule pour produire ses constituants. L’autre partie est utilisée par la cellule pour réaliser la réspiration qui permet de produire l’énergie nécessaire au fonctionnement de la cellule. Il y’a lors de la réspiration conversion de l’énergie chimique de réserve (le glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> constituant l’amidon) en énérgie "utilisable" (l’ATP).
 
 ### Les cellules non chlorophylliennes ont un métabolisme hétérotrophe. 
 
 Les cellules non chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration au sein de leurs mitochondries:
 
-**<p align=center>6 O2 +  C6H12O6   →  6 CO2 + 6 H2O + Enenrgie chimique</p>**
+**<p class=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
 
-Ces cellules sont hétérotrophes au carbone: étant incapables de produire leur matière organique en utilisant uniquement des matières minérales, elles doivent prélever de la matière organique (glucose C6H12O6) dans leur environnement pour d’une part produire leurs constituants, et d’autre part réaliser la réspiration qui leur permet de produire l’énergie nécessaire à leur fonctionnement en convertissant l’énergie chimique de réserve du glucose en énergie chimique "utilisable" (l’ATP).
+Ces cellules sont hétérotrophes au carbone: étant incapables de produire leur matière organique en utilisant uniquement des matières minérales, elles doivent prélever de la matière organique (glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) dans leur environnement pour d’une part produire leurs constituants, et d’autre part réaliser la réspiration qui leur permet de produire l’énergie nécessaire à leur fonctionnement en convertissant l’énergie chimique de réserve du glucose en énergie chimique "utilisable" (l’ATP).
 
 ### La complémentarité des métabolismes autotrophes et hétérotrophes aux échelles des organes et des organismes.
 

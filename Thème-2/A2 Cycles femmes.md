@@ -10,7 +10,7 @@ La puberté chez la femme se manifeste notamment par l'apparition des règles 
 
 **Observez les 2 [coupes transversales d'utérus](https://ipfs.io/ipfs/QmZCpYLWJXtLvZYKCJJPfVAgCZCfR8cdxPKGizLo4yLoND)** 
 
-L’utérus est l’organe de la gestation, c’est au sein de la cavité utérine que se développe l’embryon puis le fœtus. La cavité utéirne est limitée par une double paroi: le myomètre (paroi externe) ou  muscle utérin,  et l’endomètre (paroi interne) ou muqueuse utérine.
+L’utérus est l’organe de la gestation, c’est au sein de la cavité utérine que se développe l’embryon puis le fœtus. La cavité utérine est limitée par une double paroi: le myomètre (paroi externe) ou  muscle utérin,  et l’endomètre (paroi interne) ou muqueuse utérine.
 
 *La petite coupe correspond au début du cycle, la grande coupe correspond à la fin du cycle*
 

@@ -11,7 +11,7 @@
 
 <div align=center>
 
-<img src="https://ipfs.io/ipfs/QmNk91CiRMXiYPCZM4Eotjp7rmekdbtocBU9Xd95nc7QQ8" height=240>
+<img src="https://oversas.org/ipfs/QmNk91CiRMXiYPCZM4Eotjp7rmekdbtocBU9Xd95nc7QQ8" height=240>
 
 </div>
 
@@ -63,8 +63,8 @@ Chaque cellule est un ensemble d’organites et de molécules spécialisées : l
 
 <div align=center>
 
-<a href="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep">
-<img src="https://ipfs.io/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep" width=350>
+<a href="https://oversas.org/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep">
+<img src="https://oversas.org/ipfs/QmeVj7dvTY5796YgXp9UKR1pqyTjkJJFaZkbvbAMqUSKep" width=350>
 </a>
 </div>
 
@@ -106,8 +106,8 @@ La matrice extra-cellulaire des cellules animales est composée majoritairement 
 
 <div align=center>
 
-<a href="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2">
-<img src="https://ipfs.io/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2" width=300>
+<a href="https://oversas.org/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2">
+<img src="https://oversas.org/ipfs/Qmb3ky7bg3o2ZJucfUFEhv1N3zoY4DDdULVv9VkEXFGNs2" width=300>
 </a>
 </div>
 
@@ -121,8 +121,8 @@ La paroi végétale est composée majoritairement de longues fibres glucidiques 
 
 <div align=center>
 
-<a href="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK">
-<img src="https://ipfs.io/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK" width=300>
+<a href="https://oversas.org/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK">
+<img src="https://oversas.org/ipfs/QmPQAP5dVbS8s8hTeucmL3ncVvFsogzrP2q9xiwU78sPVK" width=300>
 </a>
 </div>
 
@@ -141,8 +141,8 @@ Les deux chaînes sont complémentaires et liées l'une à l'autre par des liais
 
 <div align=center>
 
-<a href="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p">
-<img src="https://ipfs.io/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p" width=260>
+<a href="https://oversas.org/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p">
+<img src="https://oversas.org/ipfs/QmTJRz6FS1TgvKbKtXrgBxabcd2SyHpxvf4FaHeH94Sc6p" width=260>
 </a>
 </div>
 
@@ -179,8 +179,8 @@ Le génome de l’espèce humaine comporte environ 35 000 gènes. Ces 35 000 gè
 
 <p align=center>
 
-<a href=https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV>	
-<img src="https://ipfs.io/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV" height=250>
+<a href=https://oversas.org/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV>	
+<img src="https://oversas.org/ipfs/QmPLyTHkUiGngbGLXFkx7QxTxECMsnmpfhhXZhzNpNcrMV" height=250>
 </a>
 </p>
 
@@ -199,7 +199,8 @@ La photosynthèse se déroule dans des organites spécialisés: les chloroplaste
 
 <p style="text-decoration:underline;">Les cellules chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration:</p>
 
-**<p align=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
+**<p align=center>6 O<sub>2</sub> +  6 H<sub>2</sub>O + C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 12 H<sub>2</sub>O + Energie chimique</p>**
+
 
 La réspiration se déroule dans des organites spécialisés: les mitochondries.
 
@@ -211,7 +212,7 @@ Une partie de la matière organique produite lors de la photosynthèse est utili
 
 Les cellules non chlorophylliennes réalisent en permanence (à la lumière comme à l’obscurité) la réspiration au sein de leurs mitochondries:
 
-**<p align=center>6 O<sub>2</sub> +  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 6 H<sub>2</sub>O + Enenrgie chimique</p>**
+**<p align=center>6 O<sub>2</sub> +  6 H<sub>2</sub>O + C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>   →  6 CO<sub>2</sub> + 12 H<sub>2</sub>O + Energie chimique</p>**
 
 Ces cellules sont hétérotrophes au carbone: étant incapables de produire leur matière organique en utilisant uniquement des matières minérales, elles doivent prélever de la matière organique (glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) dans leur environnement pour d’une part produire leurs constituants, et d’autre part réaliser la réspiration qui leur permet de produire l’énergie nécessaire à leur fonctionnement en convertissant l’énergie chimique de réserve du glucose en énergie chimique "utilisable" (l’ATP).
 

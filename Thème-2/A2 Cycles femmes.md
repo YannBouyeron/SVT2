@@ -8,7 +8,7 @@ La puberté chez la femme se manifeste notamment par l'apparition des règles 
 <p align=center><strong>Comment expliquer la périodicité des menstruations chez la femme pubère ?</strong></p>
 
 
-**Observez les 2 [coupes transversales d'utérus](https://ipfs.io/ipfs/QmZCpYLWJXtLvZYKCJJPfVAgCZCfR8cdxPKGizLo4yLoND)** 
+**Observez les 2 [coupes transversales d'utérus](https://oversas.org/ipfs/QmZCpYLWJXtLvZYKCJJPfVAgCZCfR8cdxPKGizLo4yLoND)** 
 
 L’utérus est l’organe de la gestation, c’est au sein de la cavité utérine que se développe l’embryon puis le fœtus. La cavité utérine est limitée par une double paroi: le myomètre (paroi externe) ou  muscle utérin,  et l’endomètre (paroi interne) ou muqueuse utérine.
 
@@ -20,14 +20,14 @@ L’utérus est l’organe de la gestation, c’est au sein de la cavité utéri
 
 <p></br></p>
 
-**Observez la [coupe d’ovaire](https://ipfs.io/ipfs/QmSpazNQE5G6VzLXkLdrk1BZZEbHP5RS2ZHShr1iWrUGsY) et le [document](https://ipfs.io/ipfs/QmTTdW56fZ1yfpKdLX5haH7c7GzxDBbtVDRHuaizRqYX9F) pour décrire l'organisation des ovaires, ainsi que les changements notables qui les affectent au cours d'un cycle ovarien.**
+**Observez la [coupe d’ovaire](https://oversas.org/ipfs/QmSpazNQE5G6VzLXkLdrk1BZZEbHP5RS2ZHShr1iWrUGsY) et le [document](https://oversas.org/ipfs/QmTTdW56fZ1yfpKdLX5haH7c7GzxDBbtVDRHuaizRqYX9F) pour décrire l'organisation des ovaires, ainsi que les changements notables qui les affectent au cours d'un cycle ovarien.**
 
 
 
 
 **Analysez les expériences réalisées chez des lots de souris:**
 
-<a href="https://ipfs.io/ipfs/QmRXQRapXqBmMWPFfhjU9nZ6ozfA5vb6tcqMtNUkH25xEm"><img src="https://ipfs.io/ipfs/QmRXQRapXqBmMWPFfhjU9nZ6ozfA5vb6tcqMtNUkH25xEm" alt="exp souris"></a>
+<a href="https://oversas.org/ipfs/QmRXQRapXqBmMWPFfhjU9nZ6ozfA5vb6tcqMtNUkH25xEm"><img src="https://oversas.org/ipfs/QmRXQRapXqBmMWPFfhjU9nZ6ozfA5vb6tcqMtNUkH25xEm" alt="exp souris"></a>
 
 *Une ovariectomie est une ablation des ovaires.*
 
